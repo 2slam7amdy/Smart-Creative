@@ -8162,6 +8162,10 @@ input[type="time"]::-webkit-clear-button {
 :root {
 	--awards_color: #1e88e5;
 	}
+:root {
+    --input-border-heavy: #ccc;
+    --input-border-light: #e0e0e0
+}
 div.award {
 	display: inline-block;
 	position: relative;
