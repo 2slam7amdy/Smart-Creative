@@ -3728,7 +3728,7 @@ html[data-focus-bg="1"] .focus-picker [data-focus-bg="1"]::after,html[data-focus
 
 .focus-picker [data-focus-bg='1'] {
     background-color: #49646b;
-    background-image: url(/data/styles/21/styles/xenfocus/uniform/backgrounds/1.jpg?v=2);
+    background-image: url(https://2slam7amdy.github.io/Smart-Creative/1.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: repeat;
@@ -3737,7 +3737,7 @@ html[data-focus-bg="1"] .focus-picker [data-focus-bg="1"]::after,html[data-focus
 
 .focus-picker [data-focus-bg='2'] {
     background-color: #386565;
-    background-image: url(/data/styles/21/styles/xenfocus/uniform/backgrounds/2.jpg?v=2);
+    background-image: url(https://2slam7amdy.github.io/Smart-Creative/2.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: repeat;
@@ -3746,7 +3746,7 @@ html[data-focus-bg="1"] .focus-picker [data-focus-bg="1"]::after,html[data-focus
 
 .focus-picker [data-focus-bg='3'] {
     background-color: #8c6861;
-    background-image: url(/data/styles/21/styles/xenfocus/uniform/backgrounds/3.jpg?v=2);
+    background-image: url(https://2slam7amdy.github.io/Smart-Creative/3.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: repeat;
@@ -4232,7 +4232,7 @@ html[data-logged-in='true'] .node--unread .node-title::before {
     box-shadow: rgba(0,0,0,0.08) 0px 1px 4px;
     border-color: rgba(0,0,0,0.15);
     color: #fff;
-    background: #6c9587 url("data/assets/style_properties/hello.png");
+    background: #6c9587 url("https://2slam7amdy.github.io/Smart-Creative/hello.png");
     background-size: cover;
     background-position: 50% 50%;
     padding: 40px 20px;
@@ -5801,7 +5801,7 @@ div.ribbonBox .ribbon-wrapper {
 
 html[data-focus-bg='1'],html[data-focus-bg='1'] .block-header,html[data-focus-bg='1'] .node-icon i {
     background-color: #49646b;
-    background-image: url(/data/styles/21/styles/xenfocus/uniform/backgrounds/1.jpg?v=2);
+    background-image: url(https://2slam7amdy.github.io/Smart-Creative/1.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: repeat;
@@ -5810,7 +5810,7 @@ html[data-focus-bg='1'],html[data-focus-bg='1'] .block-header,html[data-focus-bg
 
 html[data-focus-bg='2'],html[data-focus-bg='2'] .block-header,html[data-focus-bg='2'] .node-icon i {
     background-color: #386565;
-    background-image: url(/data/styles/21/styles/xenfocus/uniform/backgrounds/2.jpg?v=2);
+    background-image: url(https://2slam7amdy.github.io/Smart-Creative/2.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: repeat;
@@ -5819,7 +5819,7 @@ html[data-focus-bg='2'],html[data-focus-bg='2'] .block-header,html[data-focus-bg
 
 html[data-focus-bg='3'],html[data-focus-bg='3'] .block-header,html[data-focus-bg='3'] .node-icon i {
     background-color: #8c6861;
-    background-image: url(/data/styles/21/styles/xenfocus/uniform/backgrounds/3.jpg?v=2);
+    background-image: url(https://2slam7amdy.github.io/Smart-Creative/3.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: repeat;
