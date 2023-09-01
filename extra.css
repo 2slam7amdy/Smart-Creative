@@ -5014,7 +5014,7 @@ a.reaction:hover .reaction-text,a.reaction:focus .reaction-text {
 }
 
 .fr-element {
-    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif
+    font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif
 }
 
 .memberHeader,.memberHeader-main {
