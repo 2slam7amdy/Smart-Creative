@@ -43,7 +43,7 @@ body {
 	min-height: 100vh;
 	flex-direction: column;
 	direction: rtl;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	font-size: 15px;
 	}
 a {
@@ -69,20 +69,20 @@ button {
 	-moz-appearance: none;
 	-webkit-appearance: none;
 	cursor: pointer;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	}
 input {
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	}
 textarea {
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	transition: none;
 	}
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	}
 code, pre {
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	}
 ul, ol {
 	margin-right: 22px;
@@ -476,7 +476,7 @@ input,textarea,select,button {
 	transform: translateX(50%);
 	white-space: nowrap;
 	visibility: hidden;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	}
 .fa_like_others:focus .fa_like_tooltip, .fa_like_others:hover .fa_like_tooltip {
 	display: block;
@@ -621,7 +621,7 @@ header button,header .button {
 	cursor: pointer;
 	display: block;
 	float: left;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	font-size: 14px;
 	height: 34px;
 	letter-spacing: 0.2px;
@@ -729,7 +729,7 @@ header button,header .button {
 	direction: rtl;
 	display: block;
 	font-size: 14px;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	font-weight: 300;
 	height: 34px;
 	padding-left: 34px;
@@ -743,7 +743,7 @@ header button,header .button {
 	border-radius: 0;
 	box-shadow: none;
 	float: left;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	font-size: 18px;
 	height: 34px;
 	line-height: 34px;
@@ -4790,7 +4790,7 @@ img.emojione {
 	}
 .sceditor-container iframe,.sceditor-container textarea {
 	background-color: transparent !important;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	 !important;
 	margin: 0 !important;
 	padding: 22px 0 !important;
@@ -7700,7 +7700,7 @@ div.sceditor-dropdown label {
 	top: -30px;
 	transform: translateX(50%);
 	white-space: nowrap;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	}
 .hljs {
 	padding: 0 !important;
@@ -8405,7 +8405,7 @@ body>.award_tooltiptext.left::after,.dd_award.left .award_tooltiptext::after {
 	overflow: hidden auto;
 	box-shadow: 0 2px 3px rgba(0,0,0,0.1), 0 0 2px rgba(0,0,0,0.1);
 	border-radius: 4px;
-	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	background-color: #ffffff;
 	}
 .container-imgs-list .image_column {
@@ -8584,7 +8584,7 @@ body>.award_tooltiptext.left::after,.dd_award.left .award_tooltiptext::after {
 	height: 42px;
 	background-color: #2c353b;
 	color: #ffffff;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
 	font-size: 1.3rem;
 	z-index: 20002;
 	padding: 3px 18px;
