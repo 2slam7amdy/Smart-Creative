@@ -2836,58 +2836,16 @@ header button,header .button {
 	}
 }
 
-/* Topic *
-/* + blockquote {
-	margin-top: 11px;
-	}
-blockquote {
-	background-color: #fff2b5;
-	border-color: rgba(0, 0, 0, 0.11);
-	border-radius: 3px;
-	border-style: solid;
-	border-width: 0 6px 0 0;
-	font-size: 14px;
-	font-style: italic;
-	line-height: 1.5;
-	padding: 8px 10px 8px 16px;
-	}
-blockquote cite {
-	color: rgba(0, 0, 0, 0.44);
-	display: block;
-	margin-bottom: 3px;
-	}
-blockquote.tiktok-embed {
-	background: none;
-	padding: 0;
-	}
-* + .codebox {
-	margin-top: 11px;
-	}
-.codebox {
-	background-color: #354147;
-	border-color: rgba(0, 0, 0, 0.44);
-	color: #FFFFFF;
-	border-radius: 3px;
-	border-style: solid;
-	border-width: 0 6px 0 0;
-	font-size: 14px;
-	line-height: 1.5;
-	padding: 8px 10px 8px 16px;
-	}
-.codebox p {
-	color: rgba(255, 255, 255, 0.44);
-	display: block;
-	margin-bottom: 3px;
-	}
-.codebox p a {
-	float: left;
-	}
-.codebox code {
-	display: block;
-	max-height: 400px;
-	overflow: auto;
-	white-space: nowrap;
-	}
+/* Topic */
+* + blockquote {margin-top: 4px;}
+blockquote {display: flow-root;margin: 0.5em 0;color: #41454a;background: #f6f6f6;border-color: rgba(9,10,10,0.35);border-right: 3px solid #41454a;border-radius: 4px;border-style: solid;border-width: 0 3px 0 0;font-size: 14px;line-height: 1.75;padding: 10px;}
+blockquote cite {padding: 6px 12px;font-size: 12px;color: #41454a;font-weight: 700;background: transparent;display: block;}
+blockquote .quote_content {font-size: 12px;position: relative;padding: 6px 12px;overflow: hidden;}
+blockquote.tiktok-embed {background: none;padding: 0;}
+.codebox {display: flow-root;margin: 0.5em 0;color: #41454a;background: #f6f6f6;border-color: rgba(9,10,10,0.35);border-right: 3px solid #41454a;border-radius: 4px;border-style: solid;border-width: 0 3px 0 0;font-size: 14px;line-height: 1.75;padding: 10px;}
+.codebox p {padding: 6px 12px;font-size: 12px;color: #41454a;font-weight: 700;background: transparent;display: block;}
+.codebox p a {float: left;}
+.codebox code {display: block;max-height: 400px;overflow: auto;white-space: nowrap;font-size: 12px;position: relative;padding: 6px 12px;}
 .attachbox {
 	background-color: #F5F5F5;
 	border-color: rgba(0, 0, 0, 0.11);
