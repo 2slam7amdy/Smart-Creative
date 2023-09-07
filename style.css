@@ -43,7 +43,7 @@ body {
 	min-height: 100vh;
 	flex-direction: column;
 	direction: rtl;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	font-size: 15px;
 	}
 a {
@@ -69,20 +69,20 @@ button {
 	-moz-appearance: none;
 	-webkit-appearance: none;
 	cursor: pointer;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	}
 input {
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	}
 textarea {
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	transition: none;
 	}
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	}
 code, pre {
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se;
 	}
 ul, ol {
 	margin-right: 22px;
@@ -144,7 +144,7 @@ label > span,.label > span {
 	margin-top: -7px;
 	}
 span + input {
-	/*margin-top: -6px;*/
+	/* margin-top: -6px; */
 }
 .text-center {
 	text-align: center;
@@ -476,7 +476,7 @@ input,textarea,select,button {
 	transform: translateX(50%);
 	white-space: nowrap;
 	visibility: hidden;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	}
 .fa_like_others:focus .fa_like_tooltip, .fa_like_others:hover .fa_like_tooltip {
 	display: block;
@@ -621,7 +621,7 @@ header button,header .button {
 	cursor: pointer;
 	display: block;
 	float: left;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	font-size: 14px;
 	height: 34px;
 	letter-spacing: 0.2px;
@@ -655,8 +655,8 @@ header button,header .button {
 	}
 @media (max-width: 960px) {
 	#main-menu-btn {
-	border: none;
-	/* margin-left: -16px;*/
+		border: none;
+		/* margin-left: -16px; */
 	}
 }
 #logo-link {
@@ -729,7 +729,7 @@ header button,header .button {
 	direction: rtl;
 	display: block;
 	font-size: 14px;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	font-weight: 300;
 	height: 34px;
 	padding-left: 34px;
@@ -743,7 +743,7 @@ header button,header .button {
 	border-radius: 0;
 	box-shadow: none;
 	float: left;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	font-size: 18px;
 	height: 34px;
 	line-height: 34px;
@@ -4790,7 +4790,7 @@ img.emojione {
 	}
 .sceditor-container iframe,.sceditor-container textarea {
 	background-color: transparent !important;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	 !important;
 	margin: 0 !important;
 	padding: 22px 0 !important;
@@ -5045,7 +5045,7 @@ img.emojione {
 	min-height: 1px;
 	}
 .box dl.details dt {
-	/*width: 10em;*/
+	/* width: 10em; */
 	text-align: right;
 	margin-right: 5px;
 	}
@@ -5074,8 +5074,9 @@ img.emojione {
 	text-align: center;
 	font-size: 18px;
 	background: #fff;
-	/* Center slide text vertically */
-	display: -webkit-box;
+	
+/* Center slide text vertically */
+display: -webkit-box;
 	display: -ms-flexbox;
 	display: -webkit-flex;
 	display: flex;
@@ -7048,6 +7049,65 @@ form[name="go_page"] .button:hover {
 	margin-bottom: 10px;
 	width: fit-content;
 	}
+.mod_events .button {
+	width: fit-content;
+	display: block;
+	margin: 10px auto 0 auto}
+.mod_events .event_item {
+	border-radius: 5px;
+	overflow: hidden;
+	backdrop-filter: blur(0px);
+	max-height: 100px;
+	margin-bottom: 6px;
+	background-size: cover;
+	background-color: #f4f4f4;
+	}
+.mod_events .btn-all {
+	text-align: center;
+	margin-top: 10px;
+	}
+.mod_events .categ {
+	display: inline-block;
+	width: fit-content;
+	border-radius: 10px;
+	padding: 2px 6px;
+	color: #fff;
+	}
+.mod_events .title {
+	font-size: 14px;
+	display: block;
+	margin-bottom: 2px;
+	line-height: 18px;
+	color: #fff;
+	font-weight: bold;
+	text-shadow: 3px 3px 20px #000, -2px 1px 30px #000;
+	}
+.mod_events .blur {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+	padding: 10px;
+	background: rgba(0, 0, 0, .1);
+	backdrop-filter: blur(22px);
+	}
+.mod_events .price {
+	margin: 5px 0;
+	}
+.mod_events .date {
+	font-size: 11px;
+	font-style: italic;
+	color: #ffffffe8;
+	text-shadow: 3px 3px 20px #000, -2px 1px 30px #000;
+	}
+.mod_events .date span {
+	margin-left: 8px;
+	}
+.mod_events .date i {
+	font-size: 14px;
+	vertical-align: -3px;
+	margin-left: 2px;
+	}
 @keyframes to-top {
 	0% {
 	transform: translate3d(0, 0, 0);
@@ -7700,7 +7760,7 @@ div.sceditor-dropdown label {
 	top: -30px;
 	transform: translateX(50%);
 	white-space: nowrap;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se, Arial, sans-serif;
 	}
 .hljs {
 	padding: 0 !important;
@@ -8228,7 +8288,7 @@ div.award {
 .dd_award {
 	display: flex;
 	flex-wrap: wrap;
-	overflow: hidden; /* auto */
+	overflow: hidden /* auto */ ;
 	width: 96%;
 	padding: 4px;
 	max-height: 64px;
@@ -8405,7 +8465,7 @@ body>.award_tooltiptext.left::after,.dd_award.left .award_tooltiptext::after {
 	overflow: hidden auto;
 	box-shadow: 0 2px 3px rgba(0,0,0,0.1), 0 0 2px rgba(0,0,0,0.1);
 	border-radius: 4px;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Neo Sans Arabic Regular', 'Roboto', Arial,sans-se;
 	background-color: #ffffff;
 	}
 .container-imgs-list .image_column {
@@ -8584,7 +8644,7 @@ body>.award_tooltiptext.left::after,.dd_award.left .award_tooltiptext::after {
 	height: 42px;
 	background-color: #2c353b;
 	color: #ffffff;
-	font-family: 'Droid Arabic Kufi', 'Roboto', Arial, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 1.3rem;
 	z-index: 20002;
 	padding: 3px 18px;
@@ -8900,10 +8960,10 @@ body>.award_tooltiptext.left::after,.dd_award.left .award_tooltiptext::after {
 	color: #00569c !important;
 	text-decoration: none !important;
 	vertical-align: baseline;
-	 /* max-width: 150px;
-	 overflow: hidden;
-	 white-space: nowrap;
-	 text-overflow: ellipsis; */
+	/* max-width: 150px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis; */
 }
 #fa_toolbar #fa_right #notif_list li:first-child {
 	padding-top: 18px;
